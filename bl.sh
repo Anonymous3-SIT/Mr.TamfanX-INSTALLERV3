@@ -32,7 +32,7 @@ figlet MY TOOLS | lolcat
 echo $bir"█████████"
 echo $bir"█▄█████▄█"
 echo $bir"█▼▼▼▼▼"
-echo $bir"█ INSTALLER RYUXPLOIT v3.1"
+echo $bir"█ INSTALLER Mr.TamfanX v3.1"
 echo $bir"█▲▲▲▲▲"
 echo $bir"█████████"
 echo $bir" ██ ██"
