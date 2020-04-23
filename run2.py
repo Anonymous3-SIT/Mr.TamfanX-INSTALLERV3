@@ -15,7 +15,7 @@ slowprint(' Yang Tahu Username & Password Tools Ini, Mohon ')
 slowprint(' Untuk Tidak Menyebarluaskan, Biarkan Mereka Yang ')
 slowprint(' Usaha Mencari Username & Passwordnya Sendiri ')
 slowprint(' Jangan Jadi Orang Yang Pemalas ')
-slowprint(' Gampang Njir!! Tinggal ketik 2 Kalian Baca Descripsi Channel Nya Sampai Habis ')
+slowprint(' Gampang Njir!! Tinggal ketik 2 Kalian Tonton Vidio Nya Sampai Habis ')
 print
 slowprint(' Hargai Author')
 slowprint(' Jelajahi Setiap Toolsnya Dan selamat bersenang-senang ')
