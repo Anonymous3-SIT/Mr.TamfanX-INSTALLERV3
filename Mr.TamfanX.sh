@@ -61,13 +61,13 @@ fi
 if [ $pilih = 2 ]; then
   echo "PLEASE WAIT..."
 sleep 2
-  echo "USERNAME & PASS NYA ADA DI DESKRIPSI CHANNEL GUA :)"
+  echo "USERNAME & PASS NYA ADA DI VIDIO GUA :)"
 sleep 2
   echo "JANGAN LUPA DISUBSCRIBE BIAR WORK :)"
 sleep 2
   echo "KALO GAK SUBSCRIBE GAK WORK :)"
 sleep 3
-  xdg-open https://youtu.be/oKsivv8mfTM'
+  xdg-open https://youtu.be/oKsivv8mfTM
 fi
 
 if [ $pilih = 3 ]; then
