@@ -67,7 +67,7 @@ sleep 2
 sleep 2
   echo "KALO GAK SUBSCRIBE GAK WORK :)"
 sleep 3
-  xdg-open https://youtu.be/oKsivv8mfTM/featured
+  xdg-open https://youtu.be/oKsivv8mfTM'
 fi
 
 if [ $pilih = 3 ]; then
